@@ -6,6 +6,8 @@
 
 * You need to have R installed on your system. The R interpreter (Rscript) is expected to be located at /usr/bin/
 
+* CodeBook describing data and variables is under ./CourseProject
+
 * How to run
   * Create a folder #TMP_FOLDER# on your disk
   * Download run_analysis.R script from ./CourseProject and save the script under #TMP_FOLDER#
